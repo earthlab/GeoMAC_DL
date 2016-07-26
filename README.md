@@ -22,10 +22,10 @@ Input format is specified below:
 ### Running Directly from the Command Line
 
 If you already know the information specified in the previous section, you can run this script directly from the command line with additional arguments. The command line arguments following 'python GeoMAC_DL.py are as follows:
-1. server, The corresponding number of the server you wish to download data from
-2. file_name, The name you want the downloaded KMZ file to be
-3. layer_numbers, The numbers of the layers you want to be included in the KMZ file separated by periods and no spaces (Example: 1.3.7)
-4. layer_option, The corresponding number of the layer option that you want the KMZ file to be formatted in (1 = Composite, 2 = Separate Image, 3 = Non-Composite)
+ 1. server, The corresponding number of the server you wish to download data from
+ 2. file_name, The name you want the downloaded KMZ file to be
+ 3. layer_numbers, The numbers of the layers you want to be included in the KMZ file separated by periods and no spaces (Example: 1.3.7)
+ 4. layer_option, The corresponding number of the layer option that you want the KMZ file to be formatted in (1 = Composite, 2 = Separate Image, 3 = Non-Composite)
 
 An example is provided below:
 
